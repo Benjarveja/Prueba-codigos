@@ -1,2 +1,2 @@
 # Prueba-codigos
-Codios de prueba en github
+Codigos de prueba en github
